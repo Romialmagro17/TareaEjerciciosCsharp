@@ -1,0 +1,14 @@
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\bin\Debug\net10.0\TareaEjerciciosCsharp.exe
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\bin\Debug\net10.0\TareaEjerciciosCsharp.deps.json
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\bin\Debug\net10.0\TareaEjerciciosCsharp.runtimeconfig.json
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\bin\Debug\net10.0\TareaEjerciciosCsharp.dll
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\bin\Debug\net10.0\TareaEjerciciosCsharp.pdb
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\obj\Debug\net10.0\TareaEjerciciosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\obj\Debug\net10.0\TareaEjerciciosCsharp.AssemblyInfoInputs.cache
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\obj\Debug\net10.0\TareaEjerciciosCsharp.AssemblyInfo.cs
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\obj\Debug\net10.0\TareaEjerciciosCsharp.csproj.CoreCompileInputs.cache
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\obj\Debug\net10.0\TareaEjerciciosCsharp.dll
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\obj\Debug\net10.0\refint\TareaEjerciciosCsharp.dll
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\obj\Debug\net10.0\TareaEjerciciosCsharp.pdb
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\obj\Debug\net10.0\TareaEjerciciosCsharp.genruntimeconfig.cache
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\obj\Debug\net10.0\ref\TareaEjerciciosCsharp.dll
