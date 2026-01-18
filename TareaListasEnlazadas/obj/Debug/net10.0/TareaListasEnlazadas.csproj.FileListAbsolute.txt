@@ -1,0 +1,15 @@
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\obj\Debug\net10.0\TareaListasEnlazadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\obj\Debug\net10.0\TareaListasEnlazadas.AssemblyInfoInputs.cache
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\obj\Debug\net10.0\TareaListasEnlazadas.AssemblyInfo.cs
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\obj\Debug\net10.0\TareaListasEnlazadas.csproj.CoreCompileInputs.cache
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\obj\Debug\net10.0\TareaListasEnlazadas.sourcelink.json
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\bin\Debug\net10.0\TareaListasEnlazadas.exe
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\bin\Debug\net10.0\TareaListasEnlazadas.deps.json
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\bin\Debug\net10.0\TareaListasEnlazadas.runtimeconfig.json
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\bin\Debug\net10.0\TareaListasEnlazadas.dll
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\bin\Debug\net10.0\TareaListasEnlazadas.pdb
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\obj\Debug\net10.0\TareaListasEnlazadas.dll
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\obj\Debug\net10.0\refint\TareaListasEnlazadas.dll
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\obj\Debug\net10.0\TareaListasEnlazadas.pdb
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\obj\Debug\net10.0\TareaListasEnlazadas.genruntimeconfig.cache
+C:\PythonProjects\PythonProject4\.idea\TareaEjerciciosCsharp\TareaListasEnlazadas\obj\Debug\net10.0\ref\TareaListasEnlazadas.dll
